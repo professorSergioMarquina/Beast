@@ -12,9 +12,9 @@ cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
 yellow='\e[1;33m'
-echo -e $lightgreen "\e[1m                Security Help For Ethical Hackers... "
+echo -e $lightgreen "\e[1m                No System Is Safe!... "
 echo " "
-echo -e $yellow "\e[1m                         -Sutariya Parixit "
+echo -e $yellow "\e[1m                         -Ashik Muhammed"
 echo " "
 echo " "
 echo " "
